@@ -2,6 +2,7 @@
 @/.*\.jp(\/.*)?/
 /.*\.cn(\/.*)?/
 /baidu\.com(\/.*)?/
+/zhihu\.com(\/.*)?/
 /.*wiktionary\.org\/zh-hans.*/
 title/.*饼.*/
 title/.*个.*/
